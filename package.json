@@ -1,0 +1,10 @@
+{
+  "name": "classroomlite",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build:backend": "npm --prefix backend run build",
+    "test:backend": "npm --prefix backend test",
+    "build:frontend": "npm --prefix frontend run build"
+  }
+}
